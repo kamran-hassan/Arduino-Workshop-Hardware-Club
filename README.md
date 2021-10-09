@@ -34,11 +34,11 @@ This repository will have the codes that are discussed in Arduino workshop organ
   
    ### An amazing project live Devlopement <br>
    
-   ## Day 4 (2Hours Appx + 20 Min Q&A)  <br>
+   ## Day 4 (3Hours Appx + 20 Min Q&A)  <br>
    
-   ### Another Amazing project live Devlopment  <br>
+   ### Another Amazing project live Devlopment(1.2Hours)  <br>
    
-   ### Interesting problem Solving challeng for the meeting attendies.  <br>
-   ### Final Quiz.  <br>
+   ### Interesting problem Solving challeng for the meeting attendies.(1.3Hour)  <br>
+   ### Final Quiz.(10Min)  <br>
    Q&A and Some future event disscussion.   <br>
 
