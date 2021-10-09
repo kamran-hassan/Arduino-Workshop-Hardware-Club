@@ -11,7 +11,7 @@ This repository will have the codes that are discussed in Arduino workshop organ
 ## List Of Topic Covered in the Event.
 
 ### It is going to be a 4 Days Event.
-
+  Note:- There is no pre-requisite Required.
   ## Day1 (2Hours Appx + 20 Min Q&A)
    
    What is Arduino? <br>
@@ -22,7 +22,7 @@ This repository will have the codes that are discussed in Arduino workshop organ
    Output - Analog % Digital  (Some Acctuators)<br> 
    Serial Monitor <br>
    
-   ## Day 2
+   ## Day 2 (2Hours Appx + 20 Min Q&A)
    
    Coding Inroduction, Language, Compilation Execution brief Intoduction. <br>
    Variables <br>
@@ -31,11 +31,11 @@ This repository will have the codes that are discussed in Arduino workshop organ
    
    See Some of the sensor in action with code and hardware connections (In details)  <br>
    
-   ## Day 3  <br>
+   ## Day 3(2Hours Appx + 20 Min Q&A)  <br>
   
    ### An amazing project live Devlopement <br>
    
-   ## Day 4  <br>
+   ## Day 4 (2Hours Appx + 20 Min Q&A)  <br>
    
    ### Another Amazing project live Devlopment  <br>
    
@@ -43,5 +43,5 @@ This repository will have the codes that are discussed in Arduino workshop organ
    ### Final Quiz.  <br>
    Q&A and Some future event disscussion.   <br>
    
-   
+ <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSflWPEtx5IIdF6f6HqUh5vRqObkVdxjaKXNBySChmosQqtc0A/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>  
    
