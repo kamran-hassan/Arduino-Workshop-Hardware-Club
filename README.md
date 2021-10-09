@@ -14,34 +14,34 @@ This repository will have the codes that are discussed in Arduino workshop organ
 
   ## Day1 (2Hours Appx + 20 Min Q&A)
    
-   What is Arduino?
-   Why we use I arduino Instead Of Microcontroller.
-   Some fun project Videos for Fun and increasing interest towards the topic.
-   Introduction To arduino Hardware design.
-   Input - Analog & Digital   (Some Sensor)
-   Output - Analog % Digital  (Some Acctuators)
-   Serial Monitor
+   What is Arduino? <br>
+   Why we use I arduino Instead Of Microcontroller. <br>
+   Some fun project Videos for Fun and increasing interest towards the topic. <br>
+   Introduction To arduino Hardware design. <br>
+   Input - Analog & Digital   (Some Sensor) <br>
+   Output - Analog % Digital  (Some Acctuators)<br> 
+   Serial Monitor <br>
    
    ## Day 2
    
-   Coding Inroduction, Language, Compilation Execution brief Intoduction.
-   Variables 
-   Loops
-   functions
+   Coding Inroduction, Language, Compilation Execution brief Intoduction. <br>
+   Variables <br>
+   Loops <br>
+   functions  <br>
    
-   See Some of the sensor in action with code and hardware connections (In details)
+   See Some of the sensor in action with code and hardware connections (In details)  <br>
    
-   ## Day 3
+   ## Day 3  <br>
   
-   ### An amazing project live Devlopement 
+   ### An amazing project live Devlopement <br>
    
-   ## Day 4
+   ## Day 4  <br>
    
-   ### Another Amazing project live Devlopment
+   ### Another Amazing project live Devlopment  <br>
    
-   ### Interesting problem Solving challeng for the meeting attendies.
-   ### Final Quiz.
-   Q&A and Some future event disscussion.
+   ### Interesting problem Solving challeng for the meeting attendies.  <br>
+   ### Final Quiz.  <br>
+   Q&A and Some future event disscussion.   <br>
    
    
    
