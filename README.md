@@ -2,7 +2,7 @@
 This repository will have the codes that are discussed in Arduino workshop organized by Hardware Club of Asansol Engineering College 
 
 ![alt text](https://github.com/kamran-hassan/Arduino-Workshop-Hardware-Club/blob/main/poster1.png?raw=true)
-![alt text](![image](https://user-images.githubusercontent.com/52744272/136660100-6761a86f-4d6d-414c-a152-a871d2845782.png))
+![alt text](![image](https://user-images.githubusercontent.com/52744272/136660100-6761a86f-4d6d-414c-a152-a871d2845782.png)
 ## Date of the event
 23 October 2021          ----               24 October 2021
 
