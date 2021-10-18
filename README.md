@@ -29,7 +29,8 @@ This repository will have the codes that are discussed in Arduino workshop organ
    functions  <br>
    
    See Some of the sensor and acctuators in action with code and hardware connections (In details)  <br>
-   Temparature Sensor, Servo, Motor, LDR, LDC etc.
+   Temparature Sensor,         Servo,        Motor,<br>
+   LDR,                        LCD etc.
    
    ## Day 3(2Hours Appx + 20 Min Q&A)(10:00AM to 12:30PM IST)  <br>
   
