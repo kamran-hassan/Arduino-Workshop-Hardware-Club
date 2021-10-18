@@ -11,7 +11,7 @@ This repository will have the codes that are discussed in Arduino workshop organ
 
 ### It is going to be a 4 Days Event.
   Note:- There is no pre-requisite Required.
-  ## Day1 (2Hours Appx + 20 Min Q&A)
+  ## Day1 (2Hours Appx + 20 Min Q&A)(10:00AM to 12:30PM IST)
    
    What is Arduino? <br>
    Why we use I arduino Instead Of Microcontroller. <br>
@@ -21,24 +21,27 @@ This repository will have the codes that are discussed in Arduino workshop organ
    Output - Analog % Digital  (Some Acctuators)<br> 
    Serial Monitor <br>
    
-   ## Day 2 (2Hours Appx + 20 Min Q&A)
+   ## Day 2 (2Hours Appx + 20 Min Q&A)(10:00AM to 12:30PM IST)
    
    Coding Inroduction, Language, Compilation Execution brief Intoduction. <br>
    Variables <br>
    Loops <br>
    functions  <br>
    
-   See Some of the sensor in action with code and hardware connections (In details)  <br>
+   See Some of the sensor and acctuators in action with code and hardware connections (In details)  <br>
+   Temparature Sensor, Servo, Motor, LDR, LDC etc.
    
-   ## Day 3(2Hours Appx + 20 Min Q&A)  <br>
+   ## Day 3(2Hours Appx + 20 Min Q&A)(10:00AM to 12:30PM IST)  <br>
   
    ### An amazing project live Devlopement <br>
    
-   ## Day 4 (3Hours Appx + 20 Min Q&A)  <br>
+   ## Day 4 (3Hours Appx + 20 Min Q&A)(10:00AM to 1:30PM IST)  <br>
    
-   ### Another Amazing project live Devlopment(1.2Hours)  <br>
+   ### Another Amazing project live Devlopment(1Hours)  <br>
    
-   ### Interesting problem Solving challeng for the meeting attendies.(1.3Hour)  <br>
+   ### Interesting problem Solving challeng for the meeting attendies.(1.5Hour)  <br>
    ### Final Quiz.(10Min)  <br>
    Q&A and Some future event disscussion.   <br>
+   
+   ### Note - Certification will be provided to the attendees & best performers in quiz final problem solving.
 
