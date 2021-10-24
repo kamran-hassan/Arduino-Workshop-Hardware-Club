@@ -32,6 +32,8 @@ Teenenggr![image](https://user-images.githubusercontent.com/52744272/138594335-6
 
 #### Digital I/O Code Link -:- https://github.com/kamran-hassan/Arduino-Workshop-Hardware-Club/blob/main/Session%201/Digitalinputoutput.ino
 
+### Analog IO
+
 ![UzyLcl9Ua2](https://user-images.githubusercontent.com/52744272/138596372-09d6897f-6cef-4550-8751-edae863d3713.gif)
 
 #### Analog I/O Code Link -:- https://github.com/kamran-hassan/Arduino-Workshop-Hardware-Club/blob/main/Session%201/analogInputOutput.ino
