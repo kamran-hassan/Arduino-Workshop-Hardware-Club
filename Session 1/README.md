@@ -9,11 +9,16 @@
 
 ![image](https://user-images.githubusercontent.com/52744272/138594233-15526d45-1006-4230-a9d6-ff2f4e4faf35.png)
 
+![image](https://user-images.githubusercontent.com/52744272/138596344-8c989391-f9cf-48b5-a8e1-6e02fc076ff2.png)
+
+
 #### Credit of the these two mativation video Vist Chanel : -  
 Teenenggr![image](https://user-images.githubusercontent.com/52744272/138594335-6490aa2d-edd5-4956-8a04-e823106de4bb.png)
 
 ##### Link of video:- https://www.youtube.com/watch?v=fxmLD8y0RNQ&t=12s  
 ##### Link of video:- https://www.youtube.com/watch?v=fqIdqLd9sUA
+
+# Let's Jump to the main Content. 
 
 ![image](https://user-images.githubusercontent.com/52744272/138594471-e8473ee2-ca43-44a9-8687-84fc1a2dcb81.png)
 
@@ -25,4 +30,9 @@ Teenenggr![image](https://user-images.githubusercontent.com/52744272/138594335-6
 
 ![CQJxVsLg7L](https://user-images.githubusercontent.com/52744272/138595762-16fd9685-2ff4-44f1-b6b5-762ee69bf58c.gif)
 
-#### Digital Code Link -:- https://github.com/kamran-hassan/Arduino-Workshop-Hardware-Club/blob/main/Session%201/Digitalinputoutput.ino
+#### Digital I/O Code Link -:- https://github.com/kamran-hassan/Arduino-Workshop-Hardware-Club/blob/main/Session%201/Digitalinputoutput.ino
+
+![UzyLcl9Ua2](https://user-images.githubusercontent.com/52744272/138596372-09d6897f-6cef-4550-8751-edae863d3713.gif)
+
+#### Analog I/O Code Link -:- https://github.com/kamran-hassan/Arduino-Workshop-Hardware-Club/blob/main/Session%201/analogInputOutput.ino
+
