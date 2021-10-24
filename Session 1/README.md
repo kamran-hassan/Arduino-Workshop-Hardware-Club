@@ -20,3 +20,9 @@ Teenenggr![image](https://user-images.githubusercontent.com/52744272/138594335-6
 
 
 ![n1](https://user-images.githubusercontent.com/52744272/138595078-17a5e699-f524-40f7-9300-6a28e96d9b4b.png)
+
+### Digital IO
+
+![CQJxVsLg7L](https://user-images.githubusercontent.com/52744272/138595762-16fd9685-2ff4-44f1-b6b5-762ee69bf58c.gif)
+
+#### Digital Code Link -:- https://github.com/kamran-hassan/Arduino-Workshop-Hardware-Club/blob/main/Session%201/Digitalinputoutput.ino
