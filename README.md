@@ -32,7 +32,7 @@ This repository will have the codes that are discussed in Arduino workshop organ
    Temparature Sensor,                 Servo,          Motor,       <br>
    LDR,                                LCD  etc.
    
-   ## Day 3(2Hours Appx + 20 Min Q&A)(10:00AM to 12:30PM IST)  <br>
+   ## Day 3(2Hours Appx + 20 Min Q&A)(Timing :- will be notified)  <br>
   
    ### An amazing project live Devlopement <br>
    
