@@ -20,3 +20,32 @@ https://github.com/kamran-hassan/Arduino-Workshop-Hardware-Club/blob/main/Sessio
 
 
 ![mjTYZetn80](https://user-images.githubusercontent.com/52744272/139261727-25ef414b-ff1e-4cc1-8bcb-70e43d011533.gif)
+
+
+### Functions:
+
+![23](https://user-images.githubusercontent.com/52744272/139263154-2edb281f-0291-4b49-a905-48fb16dd763a.png)
+
+
+![8sd9b3stiJ](https://user-images.githubusercontent.com/52744272/139263188-ed148138-8da7-4073-ad84-422a7b537dd6.gif)
+
+### operator:
+
+![image](https://user-images.githubusercontent.com/52744272/139263512-b03412a3-43e5-4688-8d1d-9c1a42c8e24b.png)
+
+### Conditional Statement :
+The statement or instruction only executes based on certains conditions.
+![image](https://user-images.githubusercontent.com/52744272/139263816-560c6f7f-c38d-45d7-9ca0-0f87239fe888.png)
+
+### Loops:
+used to perform task in iterative manner
+![image](https://user-images.githubusercontent.com/52744272/139264160-787bced0-0c5e-4bd0-8782-3919e9d1989b.png)
+
+### Simple project
+controlling led based on temparature sensor value
+#### tutorial Link:-
+
+
+![4gENRM9S6m](https://user-images.githubusercontent.com/52744272/139272134-d13aa831-8edb-421f-87b8-2a8cca9b70b5.gif)
+
+
