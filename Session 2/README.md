@@ -45,7 +45,7 @@ used to perform task in iterative manner
 
 ### Simple project
 controlling led based on temparature sensor value
-#### tutorial Link:-
+#### tutorial Link:- https://youtu.be/fZZ2ALyuKD8
 
 #### code link:-
 https://github.com/kamran-hassan/Arduino-Workshop-Hardware-Club/blob/main/Session%202/TemparaturRGBindicator.ino
