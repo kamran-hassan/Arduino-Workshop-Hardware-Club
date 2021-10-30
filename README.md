@@ -29,8 +29,8 @@ This repository will have the codes that are discussed in Arduino workshop organ
    functions  <br>
    
    See Some of the sensor and acctuators in action with code and hardware connections (In details)  <br>
-   Temparature Sensor,                 Servo,          Motor,       <br>
-   LDR,                                LCD  etc.
+   Temparature Sensor,        
+   
    
    ## Day 3(2Hours Appx + 20 Min Q&A)(Timing :- 5:00PM to 7:30PM IST)  <br>
   
@@ -38,7 +38,9 @@ This repository will have the codes that are discussed in Arduino workshop organ
    
    ## Day 4 (3Hours Appx + 20 Min Q&A)(10:00AM to 1:30PM IST)  <br>
    
-   ### Another Amazing project live Devlopment(1Hours)  <br>
+   Motor Driver L293D, Ultrasonic sensor, LCD display a basic approach,  LCD display with Arduino. 
+   
+  
    
    ### Interesting problem Solving challeng for the meeting attendies.(1.5Hour)  <br>
    ### Final Quiz.(10Min)  <br>
