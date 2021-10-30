@@ -33,12 +33,12 @@ This repository will have the codes that are discussed in Arduino workshop organ
    
    
    ## Day 3(2Hours Appx + 20 Min Q&A)(Timing :- 5:00PM to 7:30PM IST)  <br>
-  
+   Motor Driver L293D, Ultrasonic sensor, LCD display a basic approach,  LCD display with Arduino.
    ### An amazing project live Devlopement <br>
    
    ## Day 4 (3Hours Appx + 20 Min Q&A)(10:00AM to 1:30PM IST)  <br>
    
-   Motor Driver L293D, Ultrasonic sensor, LCD display a basic approach,  LCD display with Arduino. 
+ 
    
   
    
